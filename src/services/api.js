@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: `https://personal-finance-dashboard-backend-34av.onrender.com/`,
+  baseURL: "https://personal-finance-dashboard-backend-34av.onrender.com",
 });
 
 api.interceptors.request.use((config) => {
