@@ -84,47 +84,6 @@ src/
 
 ---
 
-## ⚙️ Installation Steps
-
-### 1️⃣ Clone Repository
-
-```
-git clone https://github.com/YOUR_USERNAME/spendsense-frontend.git
-```
-
-### 2️⃣ Navigate to Project
-
-```
-cd spendsense-frontend
-```
-
-### 3️⃣ Install Dependencies
-
-```
-npm install
-```
-
-### 4️⃣ Create Environment File
-
-Create a `.env` file in root folder and add:
-
-```
-API_URL=YOUR_BACKEND_API_URL
-SUPABASE_URL=YOUR_SUPABASE_URL
-SUPABASE_ANON_KEY=YOUR_SUPABASE_ANON_KEY
-```
-
-### 5️⃣ Run Development Server
-
-```
-npm run dev
-```
-
-Application will run at:
-
-```
-http://localhost:5173
-```
 
 ---
 
